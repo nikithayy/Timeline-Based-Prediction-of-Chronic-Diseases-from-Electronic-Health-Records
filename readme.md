@@ -433,4 +433,4 @@ Patient 45 | Similar history
 
 # Authors
 
-Developed as part of a healthcare AI and predictive analytics project.
+Developed as part of a healthcare AI and predictive analytics Capstone project by Srinikitha Yendru advised by Prof. M. Mustafa Rafique.
