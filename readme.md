@@ -38,6 +38,10 @@ Explainable Predictions
 
 ---
 
+# Poster Preview
+
+[Full Poster PDF](poster.pdf)
+
 # Technologies Used
 
 ## Data Engineering
